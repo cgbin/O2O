@@ -78,5 +78,5 @@ location / {
 步骤3  
 到这里，网站可以正常访问了。
 
-后台登录地址：http://youdomain.com/Admin/Index/index  
+后台登录地址：http://youdomain.com/admin/Index/index  
 超级管理员账号: admin  密码:admin
