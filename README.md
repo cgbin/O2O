@@ -36,7 +36,7 @@
 先导入根目录下的o2o.sql数据库文件
 
 步骤二  
-配置数据库，打开 \application\database.php 文件，修改下面的内容：
+配置数据库，打开 application/database.php 文件，修改下面的内容：
 
 ```
   'type'           => 'mysql',
@@ -56,10 +56,10 @@
 
 
 步骤1  
-设置 public\upload 目录和 runtime  权限为 777
+设置 public/upload 目录和 runtime  权限为 777
 
 ```
-chmod -R  777 public\upload
+chmod -R  777 public/upload
 chmod -R  777 runtime 
 ````
 
